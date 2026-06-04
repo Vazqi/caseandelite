@@ -32,7 +32,7 @@ local OrionLib = {
         Main = Color3.fromRGB(39, 40, 41),      -- background
         Second = Color3.fromRGB(32, 32, 33),    -- panels
         Stroke = Color3.fromRGB(92, 13, 219),   -- borders (your old Atlas purple)
-        Divider = Color3.fromRGB(20, 6, 82),  -- dividers (lines, etc.)
+        Divider = Color3.fromRGB(0, 0, 0),
         Text = Color3.fromRGB(255, 255, 255),
         TextDark = Color3.fromRGB(180, 160, 200)
         }
