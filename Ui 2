@@ -29,12 +29,12 @@ local OrionLib = {
     Flags = {},
     Themes = {
         Default = {
-        Main = Color3.fromRGB(39, 40, 41),      -- background
-        Second = Color3.fromRGB(32, 32, 33),    -- panels
-        Stroke = Color3.fromRGB(92, 13, 219),   -- borders (your old Atlas purple)
-        Divider = Color3.fromRGB(0, 0, 0),
-        Text = Color3.fromRGB(255, 255, 255),
-        TextDark = Color3.fromRGB(180, 160, 200)
+            Main = Color3.fromRGB(0, 0, 0),
+            Second = Color3.fromRGB(10, 10, 10),
+            Stroke = Color3.fromRGB(60, 60, 60),
+            Divider = Color3.fromRGB(60, 60, 60),
+            Text = Color3.fromRGB(240, 240, 240),
+            TextDark = Color3.fromRGB(150, 150, 150)
         }
     },
     SelectedTheme = "Default",
