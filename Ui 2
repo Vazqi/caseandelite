@@ -1052,7 +1052,7 @@ function OrionLib:MakeWindow(WindowConfig)
 
     -- @ UI Visible & Mobile Icon Handle (Zv-yz/github);
 
-    local _currentKey = Enum.KeyCode.RightShift
+    local _currentKey = Enum.KeyCode.LeftBracket
     local isMobile = table.find({Enum.Platform.IOS, Enum.Platform.Android}, UserInputService:GetPlatform())
     local MobileIcon =
         SetChildren(
